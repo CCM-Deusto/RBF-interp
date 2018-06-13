@@ -96,9 +96,9 @@ returns the values of the interpolation weighted function at points x by perform
 
 An example case can be run just by typing in the Matlab command line
 
-~~~Matlab
+```Matlab
 test
-~~~
+```
 
 ![](test.png)
 
