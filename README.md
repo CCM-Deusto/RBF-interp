@@ -9,7 +9,7 @@ This is a set of Matlab functions to interpolate scattered data with Radial Basi
 
 ## Getting Started
 
-```sh
+```Matlab
 y = RBFinterp(xs, ys, x, RBFtype, R)
 ```
 interpolates to find y, the values of the function y=f(x) at the points x.
@@ -72,7 +72,7 @@ Compact support functions have the form
 
 R is either the support radius for the compact support RBFs or a parameter to make the distance values dimensionless for the global support RBFs.
 
-```sh
+```Matlab
 [fPar, M] = RBFparam(xs, ys, RBFtype, R)
 ```
 
@@ -82,7 +82,7 @@ returns the weights in the RBF summation and the polynomial coefficients in a co
     <img src="https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%20%5Cmathbf%7BM%7D%20%26%20%5Cmathbf%7BP%7D_s%20%5C%5C%20%5Cmathbf%7BP%7D_s%5ET%20%26%20%5Cmathbf%7B0%7D%20%5Cend%7Bpmatrix%7D%20%5Cbegin%7Bpmatrix%7D%20%5Cmathbf%7B%5Cgamma%7D%20%5C%5C%20%5Cmathbf%7B%5Cbeta%7D%20%5Cend%7Bpmatrix%7D%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Cmathbf%7Bf%7D_s%20%5C%5C%20%5Cmathbf%7B0%7D%20%5Cend%7Bpmatrix%7D">
 </p>
 
-```sh
+```Matlab
 [y] = RBFeval(xs, x, fPar, RBFtype, R)
 ```
 
@@ -96,7 +96,7 @@ returns the values of the interpolation weighted function at points x by perform
 
 An example case can be run just by typing in the Matlab command line
 
-```sh
+```Matlab
 test
 ```
 
