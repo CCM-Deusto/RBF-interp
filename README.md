@@ -106,10 +106,6 @@ test
   <img src="test2.png">
 </p>
 
-<p align="center">
-    <img src="animation.gif" width="500" height="300">
-</p>
-
 ## Author
 
 * **Jose Lorenzo Gomez**
