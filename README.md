@@ -102,13 +102,19 @@ test
 
 ![](test.png)
 
+1
+
 <p align="center">
   <img src="test2.png">
 </p>
 
+2
+
 <p align="center">
   <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png" target="_blank">imagen</a>
 </p>
+
+3
 
 [imagen](https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png)
 
