@@ -107,8 +107,7 @@ test
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png" target="_blank">
-<img src="test2.png"></a>
+  <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png" target="_blank">imagen</a>
 </p>
 
 ## Author
