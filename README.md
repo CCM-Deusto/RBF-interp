@@ -106,6 +106,10 @@ test
   <img src="test2.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png">
+</p>
+
 ## Author
 
 * **Jose Lorenzo Gomez**
