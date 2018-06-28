@@ -103,11 +103,15 @@ test
 ![](test.png)
 
 <p align="center">
+  <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test.png" target="_blank">Click here to open image 1.</a>
+</p>
+
+<p align="center">
   <img src="test2.png">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png" target="_blank">Click here to see the image.</a>
+  <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png" target="_blank">Click here to open image 2.</a>
 </p>
 
 ## Author
