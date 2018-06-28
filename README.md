@@ -114,8 +114,6 @@ test
   <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png" target="_blank">Click here to open image 2.</a>
 </p>
 
-esto es una prueba
-
 ## Author
 
 * **Jose Lorenzo Gomez**
