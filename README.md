@@ -100,14 +100,16 @@ An example case can be run just by typing in the Matlab command line
 test
 ```
 
-![](test.png)
+<p align="center">
+   <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test.png" target="_blank"><img src="test.png"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test.png" target="_blank">Click here to open image 1.</a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test.png" target="_blank"><img src="test2.png"></a>
+   <a href="https://github.com/ChairOfComputationalMathematics/RBF-interp/blob/master/test2.png" target="_blank"><img src="test2.png"></a>
 </p>
 
 <p align="center">
